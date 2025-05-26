@@ -1,6 +1,6 @@
-# Mini_Docusaurus-2-pdf (Modified by merryman007)
+# Mini_Docusaurus-to-pdf (Modified by merryman007)
 
-`mini_docusaurus-2-pdf` is a CLI tool that generates PDFs from a Docusaurus-based documentation website by scraping the docs pages.  
+Mini_docusaurus_to_pdf is a CLI tool that generates PDFs from a Docusaurus-based documentation website by scraping the docs pages.  
 This repository is a **modified version** of the original project by [@robertjdominguez](https://github.com/robertjdominguez) with several enhancements.
 
 ---
@@ -21,9 +21,9 @@ This repository is a **modified version** of the original project by [@robertjdo
 Clone this repo and install dependencies:
 
 
-`git clone https://github.com/merryman007/mini_docusaurus-2-pdf.git`
+`git clone https://github.com/merryman007/mini_docusaurus_to_pdf.git`
 
-`cd mini_docusaurus-2-pdf`
+`cd mini_docusaurus_to_pdf`
 
 Then run: `npm install`
 
