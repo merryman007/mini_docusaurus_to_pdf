@@ -1,6 +1,6 @@
 {
-  "baseUrl": "https://docs.0g.ai/",
-  "entryPoint": "https://docs.0g.ai/",
+  "baseUrl": "INSERT_URL_HERE",
+  "entryPoint": "INSERT_URL_HERE",
   "puppeteerWaitForSelector": ".theme-doc-markdown",
   "puppeteerWaitForTimeout": 500,
   "outputPath": "docs.pdf"
