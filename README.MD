@@ -49,7 +49,6 @@ PDF will be saved in the `output` directory.
 ---
 
 
-
 ## 📄 License
 
 This project remains under the MIT License.
