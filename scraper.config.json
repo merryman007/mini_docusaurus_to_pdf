@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://docs.0g.ai/",
+  "entryPoint": "https://docs.0g.ai/",
+  "puppeteerWaitForSelector": ".theme-doc-markdown",
+  "puppeteerWaitForTimeout": 500,
+  "outputPath": "docs.pdf"
+}
+
