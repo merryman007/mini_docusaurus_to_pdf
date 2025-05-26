@@ -21,28 +21,27 @@ This repository is a **modified version** of the original project by [@robertjdo
 Clone this repo and install dependencies:
 
 
-git clone https://github.com/merryman007/mini_docusaurus-2-pdf.git
-cd docusaurus-to-pdf
-npm install
+`git clone https://github.com/merryman007/mini_docusaurus-2-pdf.git`
+
+`cd mini_docusaurus-2-pdf`
+
+Then run: `npm install`
 
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 1. Modify the `entryPoint` and `baseurl` URL in `scrapper.config.json` to point to your target URL start point or docs root.
-2. Run the URL extraction script:
 
-
-npm run generate-pdf
-
+2. Run the URL extraction script: `npm run generate-pdf`
 
 This creates a `urls_to_check.txt` file with all URLs found. You can then edit, add or remove urls as required
 
 3. Generate PDFs from the URLs:
 
 
-After edit, type "yes" in the terminal to continue
+After edit, type "`yes`" in the terminal to continue
 
 
 PDF will be saved in the `output` directory.
